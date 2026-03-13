@@ -21,7 +21,8 @@
 }
 
 body {
-    background-color: #f5f7fa;
+    /* ใส่รูปพื้นหลังได้ ให้แนบลิ้ง*/
+    background-color: #ddeffc;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -107,6 +108,6 @@ textarea {
 }
 
 .message.danger {
-    background-color: #f8d7da;
+    background-color: #fa9ca4;
     display: block;
 }
